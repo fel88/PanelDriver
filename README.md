@@ -1,5 +1,5 @@
 # PanelDriver
-Arduino Mega 2560 Embbed + Waveshare e-ink universal shield
+Arduino Mega 2560 Embed + Waveshare e-ink universal shield
 
 <img width="500" height="686" alt="image" src="https://github.com/user-attachments/assets/48a9714d-8da1-4dd4-8030-02df6ccd938a" />
 
