@@ -1,0 +1,10 @@
+Output: Pick and place
+Type  : Pick Place
+From  : PCB Document [PanelDriver.PcbDoc]
+   Generated File[Pick Place for PanelDriver.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:35:56 On 23.03.2024

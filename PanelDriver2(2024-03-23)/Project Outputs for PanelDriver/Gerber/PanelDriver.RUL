@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Wrk_Altium\Felix\PanelDriver2\PanelDriver.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_KeepOut|Scope=Board|Minimum=0.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance_All|Scope=Board|Minimum=11.81
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
