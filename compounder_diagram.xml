@@ -435,14 +435,14 @@
         <y>-429.656097412109</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="24.1666870117188" height="21.6666870117188" rotate="0">
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="30" height="18" rotate="0">
       <text><![CDATA[C26]]></text>
       <location>
-        <x>972.30224609375</x>
-        <y>-341.32275390625</y>
+        <x>968.6183471679688</x>
+        <y>-343.6670227050781</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="24.1666870117188" height="17.5" rotate="0">
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="27" height="16" rotate="0">
       <text><![CDATA[R10]]></text>
       <location>
         <x>954.80224609375</x>
@@ -713,6 +713,181 @@
       <location>
         <x>2038.71020507812</x>
         <y>-979.191040039062</y>
+      </location>
+    </item>
+    <item kind="rect" groupId="39" zOrder="0" fill="true" drawString="false" width="39.384033203125" height="19.6920013427734" rotate="0">
+      <text><![CDATA[LED1]]></text>
+      <location>
+        <x>1026.51086425781</x>
+        <y>26.1252822875977</y>
+      </location>
+    </item>
+    <item kind="rect" groupId="40" zOrder="0" fill="true" drawString="false" width="45.01025390625" height="18.4863662719727" rotate="0">
+      <text><![CDATA[LED2]]></text>
+      <location>
+        <x>1122.5595703125</x>
+        <y>24.5177688598633</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="38.5802001953125" height="19.6920013427734" rotate="0">
+      <text><![CDATA[R15]]></text>
+      <location>
+        <x>1026.51086425781</x>
+        <y>-5.62303924560547</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="35.76708984375" height="21.7013854980469" rotate="0">
+      <text><![CDATA[R16]]></text>
+      <location>
+        <x>1077.1474609375</x>
+        <y>-4.41741180419922</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="37.7764892578125" height="22.9070129394531" rotate="0">
+      <text><![CDATA[C29]]></text>
+      <location>
+        <x>995.164428710938</x>
+        <y>-37.3713684082031</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="34.1596069335938" height="19.6920013427734" rotate="0">
+      <text><![CDATA[C25]]></text>
+      <location>
+        <x>920.013305664062</x>
+        <y>78.3693618774414</y>
+      </location>
+    </item>
+    <item kind="rect" groupId="41" zOrder="0" fill="true" drawString="false" width="47.0197143554688" height="24.5145263671875" rotate="0">
+      <text><![CDATA[LED4]]></text>
+      <location>
+        <x>783.111267089844</x>
+        <y>82.5810317993164</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="38.982177734375" height="22.9070205688477" rotate="0">
+      <text><![CDATA[R13]]></text>
+      <location>
+        <x>731.26904296875</x>
+        <y>80.9735260009766</y>
+      </location>
+    </item>
+    <item kind="rect" groupId="42" zOrder="0" fill="true" drawString="false" width="40.5896606445312" height="21.7013854980469" rotate="0">
+      <text><![CDATA[LED3]]></text>
+      <location>
+        <x>677.41748046875</x>
+        <y>80.571647644043</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="19.424072265625" height="38.1783447265625" rotate="0">
+      <text><![CDATA[R6]]></text>
+      <location>
+        <x>639.335876464844</x>
+        <y>-455.424621582031</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="23.44287109375" height="35.4992065429688" rotate="0">
+      <text><![CDATA[C17]]></text>
+      <location>
+        <x>749.852172851562</x>
+        <y>-399.83154296875</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="22.103271484375" height="40.5226440429688" rotate="0">
+      <text><![CDATA[C14]]></text>
+      <location>
+        <x>749.852172851562</x>
+        <y>-452.075622558594</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="33.275390625" height="22.1836547851562" rotate="0">
+      <text><![CDATA[R9]]></text>
+      <location>
+        <x>809.271118164062</x>
+        <y>-336.155395507812</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="31.346435546875" height="19.7723693847656" rotate="0">
+      <text><![CDATA[R5]]></text>
+      <location>
+        <x>645.305053710938</x>
+        <y>-320.241058349609</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="38.5802612304688" height="22.1836242675781" rotate="0">
+      <text><![CDATA[R7]]></text>
+      <location>
+        <x>642.411560058594</x>
+        <y>-348.694000244141</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="31.8286743164062" height="20.7368774414062" rotate="0">
+      <text><![CDATA[R3]]></text>
+      <location>
+        <x>692.565856933594</x>
+        <y>-321.20556640625</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="38.0979614257812" height="17.8433532714844" rotate="0">
+      <text><![CDATA[R4]]></text>
+      <location>
+        <x>688.707824707031</x>
+        <y>-351.105255126953</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="20.4957275390625" height="35.365234375" rotate="0">
+      <text><![CDATA[C24]]></text>
+      <location>
+        <x>830.256713867188</x>
+        <y>-131.603088378906</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="38.5802612304688" height="19.6920013427734" rotate="0">
+      <text><![CDATA[C21]]></text>
+      <location>
+        <x>816.994750976562</x>
+        <y>-99.8547668457031</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="35.76708984375" height="20.4957504272461" rotate="0">
+      <text><![CDATA[R17]]></text>
+      <location>
+        <x>815.789123535156</x>
+        <y>-72.527099609375</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="42.9205322265625" height="27.0061721801758" rotate="0">
+      <text><![CDATA[D5]]></text>
+      <location>
+        <x>801.723388671875</x>
+        <y>-39.8142700195312</y>
+      </location>
+    </item>
+    <item kind="rect" groupId="41" zOrder="0" fill="true" drawString="false" width="23.7777709960938" height="14.7355079650879" rotate="0">
+      <text><![CDATA[Led4]]></text>
+      <location>
+        <x>200.088775634766</x>
+        <y>-40.4018859863281</y>
+      </location>
+    </item>
+    <item kind="rect" groupId="42" zOrder="0" fill="true" drawString="false" width="24.7824401855469" height="14.4006156921387" rotate="0">
+      <text><![CDATA[Led3]]></text>
+      <location>
+        <x>201.093475341797</x>
+        <y>-61.5004539489746</y>
+      </location>
+    </item>
+    <item kind="rect" groupId="40" zOrder="0" fill="true" drawString="false" width="25.7871246337891" height="13.7308197021484" rotate="0">
+      <text><![CDATA[Led2]]></text>
+      <location>
+        <x>199.753890991211</x>
+        <y>-82.9339218139648</y>
+      </location>
+    </item>
+    <item kind="rect" groupId="39" zOrder="0" fill="true" drawString="false" width="24.1126403808594" height="15.4053039550781" rotate="0">
+      <text><![CDATA[Led1]]></text>
+      <location>
+        <x>202.098175048828</x>
+        <y>-103.027801513672</y>
       </location>
     </item>
   </objects>
