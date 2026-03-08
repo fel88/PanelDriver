@@ -442,42 +442,42 @@
         <y>-343.6670227050781</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="27" height="16" rotate="0">
+    <item kind="rect" groupId="35" zOrder="0" fill="true" drawString="false" width="27" height="16" rotate="0">
       <text><![CDATA[R10]]></text>
       <location>
         <x>954.80224609375</x>
         <y>-370.489440917969</y>
       </location>
     </item>
-    <item kind="rect" groupId="35" zOrder="0" fill="true" drawString="false" width="30" height="20.8333129882812" rotate="0">
+    <item kind="rect" groupId="36" zOrder="0" fill="true" drawString="false" width="30" height="20.8333129882812" rotate="0">
       <text><![CDATA[C19]]></text>
       <location>
         <x>902.30224609375</x>
         <y>-367.989440917969</y>
       </location>
     </item>
-    <item kind="rect" groupId="36" zOrder="0" fill="true" drawString="false" width="20.8333129882812" height="38.3333435058594" rotate="0">
+    <item kind="rect" groupId="37" zOrder="0" fill="true" drawString="false" width="20.8333129882812" height="38.3333435058594" rotate="0">
       <text><![CDATA[C16]]></text>
       <location>
         <x>854.802307128906</x>
         <y>-399.656066894531</y>
       </location>
     </item>
-    <item kind="rect" groupId="37" zOrder="0" fill="true" drawString="false" width="17.5" height="39.1666564941406" rotate="0">
+    <item kind="rect" groupId="38" zOrder="0" fill="true" drawString="false" width="17.5" height="39.1666564941406" rotate="0">
       <text><![CDATA[R8]]></text>
       <location>
         <x>853.135620117188</x>
         <y>-458.82275390625</y>
       </location>
     </item>
-    <item kind="rect" groupId="38" zOrder="0" fill="true" drawString="false" width="199.065673828125" height="211.507232666016" rotate="0">
+    <item kind="rect" groupId="39" zOrder="0" fill="true" drawString="false" width="199.065673828125" height="211.507232666016" rotate="0">
       <text><![CDATA[rect01]]></text>
       <location>
         <x>1295.875</x>
         <y>46.3287963867188</y>
       </location>
     </item>
-    <item kind="rect" groupId="38" zOrder="0" fill="true" drawString="false" width="178.329833984375" height="178.32958984375" rotate="0">
+    <item kind="rect" groupId="39" zOrder="0" fill="true" drawString="false" width="178.329833984375" height="178.32958984375" rotate="0">
       <text><![CDATA[rect01]]></text>
       <location>
         <x>2249.73095703125</x>
@@ -575,14 +575,14 @@
         <y>-847.2802734375</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="31.346435546875" height="14.467529296875" rotate="0">
+    <item kind="rect" groupId="35" zOrder="0" fill="true" drawString="false" width="31.346435546875" height="14.467529296875" rotate="0">
       <text><![CDATA[R2]]></text>
       <location>
         <x>2083.87451171875</x>
         <y>-827.507934570312</y>
       </location>
     </item>
-    <item kind="rect" groupId="35" zOrder="0" fill="true" drawString="false" width="29.41748046875" height="12.0562744140625" rotate="0">
+    <item kind="rect" groupId="36" zOrder="0" fill="true" drawString="false" width="29.41748046875" height="12.0562744140625" rotate="0">
       <text><![CDATA[C11]]></text>
       <location>
         <x>2083.87451171875</x>
@@ -596,56 +596,56 @@
         <y>-1106.2724609375</y>
       </location>
     </item>
-    <item kind="rect" groupId="39" zOrder="0" fill="true" drawString="false" width="32.9541015625" height="19.2901611328125" rotate="0">
+    <item kind="rect" groupId="40" zOrder="0" fill="true" drawString="false" width="32.9541015625" height="19.2901611328125" rotate="0">
       <text><![CDATA[C3]]></text>
       <location>
         <x>2162.01953125</x>
         <y>-930.8662109375</y>
       </location>
     </item>
-    <item kind="rect" groupId="40" zOrder="0" fill="true" drawString="false" width="32.552001953125" height="18.486328125" rotate="0">
+    <item kind="rect" groupId="41" zOrder="0" fill="true" drawString="false" width="32.552001953125" height="18.486328125" rotate="0">
       <text><![CDATA[C4]]></text>
       <location>
         <x>2120.62622070312</x>
         <y>-932.473754882812</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="24.91650390625" height="14.8694458007812" rotate="0">
+    <item kind="rect" groupId="42" zOrder="0" fill="true" drawString="false" width="24.91650390625" height="14.8694458007812" rotate="0">
       <text><![CDATA[R1]]></text>
       <location>
         <x>2087.67236328125</x>
         <y>-933.277526855469</y>
       </location>
     </item>
-    <item kind="rect" groupId="41" zOrder="0" fill="true" drawString="false" width="16.47705078125" height="34.1595458984375" rotate="0">
+    <item kind="rect" groupId="43" zOrder="0" fill="true" drawString="false" width="16.47705078125" height="34.1595458984375" rotate="0">
       <text><![CDATA[Q3]]></text>
       <location>
         <x>2038.64331054688</x>
         <y>-929.66064453125</y>
       </location>
     </item>
-    <item kind="rect" groupId="42" zOrder="0" fill="true" drawString="false" width="18.4864501953125" height="30.5426635742188" rotate="0">
+    <item kind="rect" groupId="44" zOrder="0" fill="true" drawString="false" width="18.4864501953125" height="30.5426635742188" rotate="0">
       <text><![CDATA[Q2]]></text>
       <location>
         <x>2040.65270996094</x>
         <y>-1011.64361572266</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="30.140869140625" height="16.4769897460938" rotate="0">
+    <item kind="rect" groupId="45" zOrder="0" fill="true" drawString="false" width="30.140869140625" height="16.4769897460938" rotate="0">
       <text><![CDATA[R9]]></text>
       <location>
         <x>2083.65356445312</x>
         <y>-961.408935546875</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="29.739013671875" height="16.8788452148438" rotate="0">
+    <item kind="rect" groupId="46" zOrder="0" fill="true" drawString="false" width="29.739013671875" height="16.8788452148438" rotate="0">
       <text><![CDATA[R11]]></text>
       <location>
         <x>2085.26098632812</x>
         <y>-991.549743652344</y>
       </location>
     </item>
-    <item kind="rect" groupId="37" zOrder="0" fill="true" drawString="false" width="27.32763671875" height="13.663818359375" rotate="0">
+    <item kind="rect" groupId="38" zOrder="0" fill="true" drawString="false" width="27.32763671875" height="13.663818359375" rotate="0">
       <text><![CDATA[R7]]></text>
       <location>
         <x>2086.466796875</x>
@@ -659,84 +659,84 @@
         <y>-1021.28869628906</y>
       </location>
     </item>
-    <item kind="rect" groupId="36" zOrder="0" fill="true" drawString="false" width="28.935302734375" height="14.4675903320312" rotate="0">
+    <item kind="rect" groupId="37" zOrder="0" fill="true" drawString="false" width="28.935302734375" height="14.4675903320312" rotate="0">
       <text><![CDATA[C5]]></text>
       <location>
         <x>2164.83276367188</x>
         <y>-1020.48492431641</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="18.8883056640625" height="28.5333251953125" rotate="0">
+    <item kind="rect" groupId="47" zOrder="0" fill="true" drawString="false" width="18.8883056640625" height="28.5333251953125" rotate="0">
       <text><![CDATA[R8]]></text>
       <location>
         <x>2002.07238769531</x>
         <y>-972.661499023438</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="17.2806396484375" height="29.3370971679688" rotate="0">
+    <item kind="rect" groupId="48" zOrder="0" fill="true" drawString="false" width="17.2806396484375" height="29.3370971679688" rotate="0">
       <text><![CDATA[R10]]></text>
       <location>
         <x>2000.86682128906</x>
         <y>-932.875610351562</y>
       </location>
     </item>
-    <item kind="rect" groupId="43" zOrder="0" fill="true" drawString="false" width="14.8695068359375" height="30.140869140625" rotate="0">
+    <item kind="rect" groupId="49" zOrder="0" fill="true" drawString="false" width="14.8695068359375" height="30.140869140625" rotate="0">
       <text><![CDATA[R6]]></text>
       <location>
         <x>2005.68933105469</x>
         <y>-1010.43798828125</y>
       </location>
     </item>
-    <item kind="rect" groupId="41" zOrder="0" fill="true" drawString="false" width="48.2252807617188" height="22.6658935546875" rotate="0">
+    <item kind="rect" groupId="43" zOrder="0" fill="true" drawString="false" width="48.2252807617188" height="22.6658935546875" rotate="0">
       <text><![CDATA[Q3]]></text>
       <location>
         <x>639.369995117188</x>
         <y>-392.624450683594</y>
       </location>
     </item>
-    <item kind="rect" groupId="42" zOrder="0" fill="true" drawString="false" width="21.2191162109375" height="45.331787109375" rotate="0">
+    <item kind="rect" groupId="44" zOrder="0" fill="true" drawString="false" width="21.2191162109375" height="45.331787109375" rotate="0">
       <text><![CDATA[Q2]]></text>
       <location>
         <x>682.772705078125</x>
         <y>-450.97705078125</y>
       </location>
     </item>
-    <item kind="rect" groupId="44" zOrder="0" fill="true" drawString="false" width="29.899658203125" height="26.0416564941406" rotate="0">
+    <item kind="rect" groupId="50" zOrder="0" fill="true" drawString="false" width="29.899658203125" height="26.0416564941406" rotate="0">
       <text><![CDATA[D4]]></text>
       <location>
         <x>753.663940429688</x>
         <y>-333.789581298828</y>
       </location>
     </item>
-    <item kind="rect" groupId="44" zOrder="0" fill="true" drawString="false" width="24.782470703125" height="16.4100341796875" rotate="0">
+    <item kind="rect" groupId="50" zOrder="0" fill="true" drawString="false" width="24.782470703125" height="16.4100341796875" rotate="0">
       <text><![CDATA[D1]]></text>
       <location>
         <x>2038.71020507812</x>
         <y>-979.191040039062</y>
       </location>
     </item>
-    <item kind="rect" groupId="45" zOrder="0" fill="true" drawString="false" width="39.384033203125" height="19.6920013427734" rotate="0">
+    <item kind="rect" groupId="51" zOrder="0" fill="true" drawString="false" width="39.384033203125" height="19.6920013427734" rotate="0">
       <text><![CDATA[LED1]]></text>
       <location>
         <x>1026.51086425781</x>
         <y>26.1252822875977</y>
       </location>
     </item>
-    <item kind="rect" groupId="46" zOrder="0" fill="true" drawString="false" width="45.01025390625" height="18.4863662719727" rotate="0">
+    <item kind="rect" groupId="52" zOrder="0" fill="true" drawString="false" width="45.01025390625" height="18.4863662719727" rotate="0">
       <text><![CDATA[LED2]]></text>
       <location>
         <x>1122.5595703125</x>
         <y>24.5177688598633</y>
       </location>
     </item>
-    <item kind="rect" groupId="47" zOrder="0" fill="true" drawString="false" width="38.5802001953125" height="19.6920013427734" rotate="0">
+    <item kind="rect" groupId="53" zOrder="0" fill="true" drawString="false" width="38.5802001953125" height="19.6920013427734" rotate="0">
       <text><![CDATA[R15]]></text>
       <location>
         <x>1026.51086425781</x>
         <y>-5.62303924560547</y>
       </location>
     </item>
-    <item kind="rect" groupId="48" zOrder="0" fill="true" drawString="false" width="35.76708984375" height="21.7013854980469" rotate="0">
+    <item kind="rect" groupId="54" zOrder="0" fill="true" drawString="false" width="35.76708984375" height="21.7013854980469" rotate="0">
       <text><![CDATA[R16]]></text>
       <location>
         <x>1077.1474609375</x>
@@ -757,77 +757,77 @@
         <y>78.3693618774414</y>
       </location>
     </item>
-    <item kind="rect" groupId="49" zOrder="0" fill="true" drawString="false" width="47.0197143554688" height="24.5145263671875" rotate="0">
+    <item kind="rect" groupId="55" zOrder="0" fill="true" drawString="false" width="47.0197143554688" height="24.5145263671875" rotate="0">
       <text><![CDATA[LED4]]></text>
       <location>
         <x>783.111267089844</x>
         <y>82.5810317993164</y>
       </location>
     </item>
-    <item kind="rect" groupId="50" zOrder="0" fill="true" drawString="false" width="38.982177734375" height="22.9070205688477" rotate="0">
+    <item kind="rect" groupId="56" zOrder="0" fill="true" drawString="false" width="38.982177734375" height="22.9070205688477" rotate="0">
       <text><![CDATA[R13]]></text>
       <location>
         <x>731.26904296875</x>
         <y>80.9735260009766</y>
       </location>
     </item>
-    <item kind="rect" groupId="51" zOrder="0" fill="true" drawString="false" width="40.5896606445312" height="21.7013854980469" rotate="0">
+    <item kind="rect" groupId="57" zOrder="0" fill="true" drawString="false" width="40.5896606445312" height="21.7013854980469" rotate="0">
       <text><![CDATA[LED3]]></text>
       <location>
         <x>677.41748046875</x>
         <y>80.571647644043</y>
       </location>
     </item>
-    <item kind="rect" groupId="43" zOrder="0" fill="true" drawString="false" width="19.424072265625" height="38.1783447265625" rotate="0">
+    <item kind="rect" groupId="49" zOrder="0" fill="true" drawString="false" width="19.424072265625" height="38.1783447265625" rotate="0">
       <text><![CDATA[R6]]></text>
       <location>
         <x>639.335876464844</x>
         <y>-455.424621582031</y>
       </location>
     </item>
-    <item kind="rect" groupId="39" zOrder="0" fill="true" drawString="false" width="23.44287109375" height="35.4992065429688" rotate="0">
+    <item kind="rect" groupId="40" zOrder="0" fill="true" drawString="false" width="23.44287109375" height="35.4992065429688" rotate="0">
       <text><![CDATA[C17]]></text>
       <location>
         <x>749.852172851562</x>
         <y>-399.83154296875</y>
       </location>
     </item>
-    <item kind="rect" groupId="40" zOrder="0" fill="true" drawString="false" width="22.103271484375" height="40.5226440429688" rotate="0">
+    <item kind="rect" groupId="41" zOrder="0" fill="true" drawString="false" width="22.103271484375" height="40.5226440429688" rotate="0">
       <text><![CDATA[C14]]></text>
       <location>
         <x>749.852172851562</x>
         <y>-452.075622558594</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="33.275390625" height="22.1836547851562" rotate="0">
+    <item kind="rect" groupId="42" zOrder="0" fill="true" drawString="false" width="33.275390625" height="22.1836547851562" rotate="0">
       <text><![CDATA[R9]]></text>
       <location>
         <x>809.271118164062</x>
         <y>-336.155395507812</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="31.346435546875" height="19.7723693847656" rotate="0">
+    <item kind="rect" groupId="46" zOrder="0" fill="true" drawString="false" width="31.346435546875" height="19.7723693847656" rotate="0">
       <text><![CDATA[R5]]></text>
       <location>
         <x>645.305053710938</x>
         <y>-320.241058349609</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="38.5802612304688" height="22.1836242675781" rotate="0">
+    <item kind="rect" groupId="48" zOrder="0" fill="true" drawString="false" width="38.5802612304688" height="22.1836242675781" rotate="0">
       <text><![CDATA[R7]]></text>
       <location>
         <x>642.411560058594</x>
         <y>-348.694000244141</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="31.8286743164062" height="20.7368774414062" rotate="0">
+    <item kind="rect" groupId="45" zOrder="0" fill="true" drawString="false" width="31.8286743164062" height="20.7368774414062" rotate="0">
       <text><![CDATA[R3]]></text>
       <location>
         <x>692.565856933594</x>
         <y>-321.20556640625</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="38.0979614257812" height="17.8433532714844" rotate="0">
+    <item kind="rect" groupId="47" zOrder="0" fill="true" drawString="false" width="38.0979614257812" height="17.8433532714844" rotate="0">
       <text><![CDATA[R4]]></text>
       <location>
         <x>688.707824707031</x>
@@ -841,74 +841,130 @@
         <y>-131.603088378906</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="38.5802612304688" height="19.6920013427734" rotate="0">
+    <item kind="rect" groupId="58" zOrder="0" fill="true" drawString="false" width="38.5802612304688" height="19.6920013427734" rotate="0">
       <text><![CDATA[C21]]></text>
       <location>
         <x>816.994750976562</x>
         <y>-99.8547668457031</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="35.76708984375" height="20.4957504272461" rotate="0">
+    <item kind="rect" groupId="59" zOrder="0" fill="true" drawString="false" width="35.76708984375" height="20.4957504272461" rotate="0">
       <text><![CDATA[R17]]></text>
       <location>
         <x>815.789123535156</x>
         <y>-72.527099609375</y>
       </location>
     </item>
-    <item kind="rect" zOrder="0" fill="true" drawString="false" width="42.9205322265625" height="27.0061721801758" rotate="0">
+    <item kind="rect" groupId="60" zOrder="0" fill="true" drawString="false" width="42.9205322265625" height="27.0061721801758" rotate="0">
       <text><![CDATA[D5]]></text>
       <location>
         <x>801.723388671875</x>
         <y>-39.8142700195312</y>
       </location>
     </item>
-    <item kind="rect" groupId="49" zOrder="0" fill="true" drawString="false" width="23.7777709960938" height="14.7355079650879" rotate="0">
+    <item kind="rect" groupId="55" zOrder="0" fill="true" drawString="false" width="23.7777709960938" height="14.7355079650879" rotate="0">
       <text><![CDATA[Led4]]></text>
       <location>
         <x>200.088775634766</x>
         <y>-40.4018859863281</y>
       </location>
     </item>
-    <item kind="rect" groupId="51" zOrder="0" fill="true" drawString="false" width="24.7824401855469" height="14.4006156921387" rotate="0">
+    <item kind="rect" groupId="57" zOrder="0" fill="true" drawString="false" width="24.7824401855469" height="14.4006156921387" rotate="0">
       <text><![CDATA[Led3]]></text>
       <location>
         <x>201.093475341797</x>
         <y>-61.5004539489746</y>
       </location>
     </item>
-    <item kind="rect" groupId="46" zOrder="0" fill="true" drawString="false" width="25.7871246337891" height="13.7308197021484" rotate="0">
+    <item kind="rect" groupId="52" zOrder="0" fill="true" drawString="false" width="25.7871246337891" height="13.7308197021484" rotate="0">
       <text><![CDATA[Led2]]></text>
       <location>
         <x>199.753890991211</x>
         <y>-82.9339218139648</y>
       </location>
     </item>
-    <item kind="rect" groupId="45" zOrder="0" fill="true" drawString="false" width="24.1126403808594" height="15.4053039550781" rotate="0">
+    <item kind="rect" groupId="51" zOrder="0" fill="true" drawString="false" width="24.1126403808594" height="15.4053039550781" rotate="0">
       <text><![CDATA[Led1]]></text>
       <location>
         <x>202.098175048828</x>
         <y>-103.027801513672</y>
       </location>
     </item>
-    <item kind="rect" groupId="47" zOrder="0" fill="true" drawString="false" width="31.25" height="14.5833435058594" rotate="0">
+    <item kind="rect" groupId="53" zOrder="0" fill="true" drawString="false" width="31.25" height="14.5833435058594" rotate="0">
       <text><![CDATA[R2]]></text>
       <location>
         <x>-68.8782348632812</x>
         <y>-253.704162597656</y>
       </location>
     </item>
-    <item kind="rect" groupId="48" zOrder="0" fill="true" drawString="false" width="30" height="15" rotate="0">
+    <item kind="rect" groupId="54" zOrder="0" fill="true" drawString="false" width="30" height="15" rotate="0">
       <text><![CDATA[R4]]></text>
       <location>
         <x>-67.4338073730469</x>
         <y>-277.315307617188</y>
       </location>
     </item>
-    <item kind="rect" groupId="50" zOrder="0" fill="true" drawString="false" width="26.1220397949219" height="11.6544189453125" rotate="0">
+    <item kind="rect" groupId="56" zOrder="0" fill="true" drawString="false" width="26.1220397949219" height="11.6544189453125" rotate="0">
       <text><![CDATA[R12]]></text>
       <location>
         <x>-18.5648345947266</x>
         <y>-313.840637207031</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="65.9722290039062" height="31.25" rotate="0">
+      <text><![CDATA[D1]]></text>
+      <location>
+        <x>-341.687927246094</x>
+        <y>-216.015579223633</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="50" height="24.3055572509766" rotate="0">
+      <text><![CDATA[C11]]></text>
+      <location>
+        <x>-247.937927246094</x>
+        <y>-227.821136474609</y>
+      </location>
+    </item>
+    <item kind="rect" groupId="60" zOrder="0" fill="true" drawString="false" width="49.3055725097656" height="27.7777709960938" rotate="0">
+      <text><![CDATA[D2]]></text>
+      <location>
+        <x>-247.243499755859</x>
+        <y>-156.987808227539</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="25.9545745849609" height="13.9540863037109" rotate="0">
+      <text><![CDATA[R6]]></text>
+      <location>
+        <x>-257.643127441406</x>
+        <y>-137.228668212891</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="29.0244903564453" height="13.116828918457" rotate="0">
+      <text><![CDATA[R5]]></text>
+      <location>
+        <x>-259.596710205078</x>
+        <y>-119.367454528809</y>
+      </location>
+    </item>
+    <item kind="rect" zOrder="0" fill="true" drawString="false" width="27.1267395019531" height="16.4100112915039" rotate="0">
+      <text><![CDATA[C1]]></text>
+      <location>
+        <x>-211.925842285156</x>
+        <y>-112.10945892334</y>
+      </location>
+    </item>
+    <item kind="rect" groupId="59" zOrder="0" fill="true" drawString="false" width="29.8058929443359" height="17.7495880126953" rotate="0">
+      <text><![CDATA[R14]]></text>
+      <location>
+        <x>-259.146423339844</x>
+        <y>-74.6008911132812</y>
+      </location>
+    </item>
+    <item kind="rect" groupId="58" zOrder="0" fill="true" drawString="false" width="24.7824401855469" height="14.7355041503906" rotate="0">
+      <text><![CDATA[C12]]></text>
+      <location>
+        <x>-256.802154541016</x>
+        <y>-57.5211029052734</y>
       </location>
     </item>
   </objects>
